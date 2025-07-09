@@ -1,0 +1,2 @@
+# Command-Line-Flashcard-App
+C++ command-line flashcard app with deck-based organization for studying, along with functionality to create, study, and delete flashcard decks
